@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 😄
+
+My name is Douglas Brandão from Brazil. I've been studying Computer Engineering since 2015 and I'm currently working with Django Framework and diving into React Ecosystem. 
+
+Besides that, I like to read books :book:, listen to a good music :headphones: and play a CSGO :video_game: in my free time.
+
+You can find me on my social medias
+
+* [Facebook](https://www.facebook.com/douglasfrbrandao)
+* [Instagram](https://www.instagram.com/dougfrbrandao)
+* [Linkedin](https://www.linkedin.com/in/douglasfbrandao)
 
 <!--
 **douglasbrandao/douglasbrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
