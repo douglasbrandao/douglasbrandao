@@ -4,7 +4,7 @@ My name is Douglas Brandão from Brazil. I've been studying Computer Engineering
 
 Besides that, I like to read books :book:, listen to a good music :headphones: and play a CSGO :video_game: in my free time.
 
-You can find me on my social medias
+Find me elsewhere
 
 * [Facebook](https://www.facebook.com/douglasfrbrandao)
 * [Instagram](https://www.instagram.com/dougfrbrandao)
