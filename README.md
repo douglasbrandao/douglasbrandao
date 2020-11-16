@@ -2,9 +2,9 @@
 
 My name is Douglas Brandão from Brazil. I've been studying Computer Engineering since 2015 and I'm currently working with Django Framework and diving into React Ecosystem. 
 
-Besides that, I like to read books :book:, listen to a good music :headphones: and play a CSGO :video_game: in my free time.
+Despite that, I like reading books :book:, listening to music :headphones: and playing a CSGO :video_game: in my free time.
 
-Find me elsewhere
+Find me elsewhere :earth_americas:
 
 * [Facebook](https://www.facebook.com/douglasfrbrandao)
 * [Instagram](https://www.instagram.com/dougfrbrandao)
