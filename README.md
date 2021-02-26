@@ -1,10 +1,12 @@
-### Hi there 😄
+### Hi, stranger! 😄
 
-My name is Douglas Brandão from Brazil. I've been studying Computer Engineering since 2015 and I'm currently working with Django Framework and diving into React Ecosystem. 
+My name is Douglas and I'm a Computer Engineering Student and a Software Engineer from Brazil. I've started to code basically because I'm passionate about the feeling of building something from scratch. It's a indescribable sensation.
 
-Despite that, I like reading books :book:, listening to music :headphones: and playing a CSGO :video_game: in my free time.
+I'm currently developing projects using the languages Python and Javascript. For the most part I use Django as my main tool for Backend Development and React.js for Frontend.
 
-Find me elsewhere :earth_americas:
+In my spare time I appreciate a good reading and listen to a good song. 😄
+
+Reach me 📫
 
 * [Facebook](https://www.facebook.com/douglasfrbrandao)
 * [Instagram](https://www.instagram.com/dougfrbrandao)
