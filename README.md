@@ -1,8 +1,8 @@
 ### Hi, stranger! 😄
 
-My name is Douglas and I'm a Computer Engineering Student and a Software Engineer from Brazil. I've started to code basically because I'm passionate about the feeling of building something from scratch. It's a indescribable sensation.
+My name is Douglas and I'm a Software Engineer from Brazil. I've started to code basically because I'm passionate about the feeling of building something from scratch. It's a indescribable sensation.
 
-I'm currently developing projects using the languages Python and Javascript. For the most part I use Django as my main tool for Backend Development and React.js for Frontend.
+I mainly use the languages Python and JavaScript. I use Django and Flask most often for backend development, on the other hand I particularly love React.js for my frontend projects when I have to consume APIs.
 
 In my spare time I appreciate a good reading and listen to a good song. 😄
 
